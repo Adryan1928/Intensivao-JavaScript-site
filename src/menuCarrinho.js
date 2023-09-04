@@ -19,6 +19,7 @@ function irParaCheckout() {
     }
 
     window.location.href = "./checkout.html"
+    
 }
 
 export function inicializarCarrinho() {
